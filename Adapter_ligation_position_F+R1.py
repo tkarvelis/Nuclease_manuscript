@@ -3,8 +3,8 @@ from Bio import SeqIO
 import re
 import os
 
-Seq_fastq_R1 = "2_S2_L001_R1_001.fastq"                         # - *.fastq files to analyze
-Seq_fastq_R2 = "2_S2_L001_R2_001.fastq"                         #
+Seq_fastq_R1 = "XXX_R1.fastq"                         # - *.fastq files to analyze
+Seq_fastq_R2 = "XXX_R2.fastq"                         #
                                                                 #
 Flank5 = "CTTCCGATCT"                                           # - 10 nt sequence from adapter
 Flank3 = "TGTCCTCTTC"                                           # - 10 nt sequence from randomized region
