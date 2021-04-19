@@ -4,8 +4,8 @@ import re
 import os
 
 
-Seq_fastq_R1 = "3_S3_L001_R1_001.fastq"                         # - *.fastq files to analyze
-Seq_fastq_R2 = "3_S3_L001_R2_001.fastq"                         #
+Seq_fastq_R1 = "XXX_R1.fastq"                         # - *.fastq files to analyze
+Seq_fastq_R2 = "XXX_R2.fastq"                         #
                                                                 #
 Flank5 = "CTTCCGATCT"                                           # - 10 nt sequence from adapter
 Flank3 = "CTAGATGCAT"                                           # - 10 nt sequence from plasmid backbone
